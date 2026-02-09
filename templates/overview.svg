@@ -55,15 +55,15 @@ foreignObject {
 
   #base div b {
   font-weight: 600;
-  color: rgb(3, 102, 214);
+  color: #58A6FF;
   }
 
   #numbers {
-  font-size: large;
+  font-size: x-large;
   }
   
   #divider {
-    border-left: 1px solid rgb(3, 102, 214);
+    border-left: 1px solid #fff;
   }
 
 #gh-dark-mode-only:target #base div {
