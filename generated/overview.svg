@@ -63,7 +63,7 @@ foreignObject {
   }
   
   #divider {
-    border-left: 1px solid #fff;
+    border-left: 1px solid rgb(88, 96, 105);
   }
 
 #gh-dark-mode-only:target #base div {
@@ -80,7 +80,7 @@ foreignObject {
   <div>
     <b>All Time Contributions</b>
     
-    <p id="numbers">1,792</p>
+    <p id="numbers">1,799</p>
   </div>
   
 <div id="divider"></div>
@@ -88,7 +88,7 @@ foreignObject {
   <div>
     <b>Lines of Code Changed</b>
     
-    <p id="numbers">2,639,682</p>
+    <p id="numbers">2,632,457</p>
   </div>
 </div>
 
