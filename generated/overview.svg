@@ -80,7 +80,7 @@ foreignObject {
   <div>
     <b>All Time Contributions</b>
     
-    <p id="numbers">1,907</p>
+    <p id="numbers">1,912</p>
   </div>
   
 <div id="divider"></div>
@@ -88,7 +88,7 @@ foreignObject {
   <div>
     <b>Lines of Code Changed</b>
     
-    <p id="numbers">2,697,147</p>
+    <p id="numbers">2,696,117</p>
   </div>
 </div>
 
